@@ -49,8 +49,8 @@ function loadEnvironmentConfigFile(settings) {
         case 'test':
             configLocation = './test.config.json';
             break;
-        case 'prd':
-            configLocation = './prd.config.json';
+        case 'prod':
+            configLocation = './prod.config.json';
             break;
     }
 

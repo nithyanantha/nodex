@@ -1,7 +1,7 @@
-# NodeJs Model Framework
+# nodex - NodeJs Model Framework
 
 
-#####Here is the model Express Js based Node Js API Framework, which supports the belwo items.
+#####Express Js based Node Js API Framework, which supports the belwo items natively.
 
 ###This Framework Includes:
 				
@@ -25,12 +25,12 @@
 				
 				10.Configuration Management (Bootstrapping , Environment Configuration Handler)
 				
-				11.Performance Tests (Will give it later, let me know)
+				11.Performance Tests
 
 
 ##Happy Coding
 
-## If you need any help contact @ nithyanantha.babu@in.tesco.com
+## If you need any help contact at info@nithya.org
 
 
 ## How to Run: 
@@ -40,12 +40,16 @@ Install NodeJs from the following url according to your operating system:
 				https://nodejs.org/en/
 
 
-Download the source code:
+Clone/Download the source code:
 
-				git clone https://github.dev.global.tesco.org/wv62/NodeJsModelFramework.git
+				git clone https://github.com/nithyanantha/nodex.git or 
+
+				download from the below location
+
+				https://github.com/nithyanantha/nodex/archive/master.zip
 
 
-Change your directory pointing to  "NodeJsModelFramework" folder
+Change your directory pointing to  "nodex" folder
 
 
 Install grunt cli globaly:
@@ -67,6 +71,7 @@ Then you will see "app" folder getting created in your root folder, change the d
 				
 
 				"node server.js" 
+
 
 ###Enable Cluster:
 
